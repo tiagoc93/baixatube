@@ -2,3 +2,5 @@
 /dist/
 /build/
 build.bat
+ffmpeg.exe
+*.exe
